@@ -46,6 +46,4 @@ The [Verilog source directory](12%2026%202025%20pipelining%20files.srcs/sources_
 | `branch_cmp.v`, `Branch_Adder.v`, `control.v` | Branch comparison, target calculation, and instruction control |
 | `rom.v`, `sram.v`, `archer_rv32i_single_cycle_tb.v` | Instruction memory, data memory, and processor testbench |
 
-## Credits
 
-The original Archer processor was developed by the Embedded and Reconfigurable Computing Lab at the American University of Beirut. The original source headers credit Mazen A. R. Saghir and identify the hardware license as `CERN-OHL-P-2.0+`.
